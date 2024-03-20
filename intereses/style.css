@@ -1,0 +1,70 @@
+body{
+    background:rgb(24, 23, 23);
+    color: #FFFF;
+    text-align: center;
+    font-family: "Madimi One", sans-serif;
+    font-size: 30px;
+}
+p.titulo1{
+    font-family: "Madimi One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 45px;
+    color: aqua;
+    text-align: center;
+  }
+p.lista{
+    font size: 40px;
+    color:#ffff;
+  }
+  .pet{
+    font-size: 25px;
+    color: #ffffff;
+  }
+  .pen{
+    font-size: 25px;
+    color: #ffffff; 
+  }
+  .play{
+    font-size: 25px;
+    color: #ffffff; 
+  }
+  .music{
+    font-size: 25px;
+    color: #ffffff; 
+  }
+  p.juego{
+    text-align: center;
+    font-family: "Madimi One", sans-serif;
+    font-size: 30px;
+    color:#f79b23
+  }
+  .caja1{
+    background-color: black;
+  }
+  .puntos3{
+    font-size: 100px;
+    color: #2bd7ee;
+  }
+  .clave{
+    font-size: 100px;
+    color: #8c6add; 
+  }
+  .click{
+    color: #c06ce7;
+    text-align: center;
+    font-family: "Madimi One", sans-serif;
+    font-size: 30px;
+  }
+  .atras{
+    display: block;
+    width:45;
+    font-family:"Bebas Neue", sans-serif ;
+    font-weight:700 ;
+    border-radius: 10px;
+    margin: 150px 130px;
+    padding: 15px 30px;
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #4cb4e4 ;
+     }
